@@ -1,0 +1,2 @@
+help cd
+help pwd
